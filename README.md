@@ -1,6 +1,7 @@
 # TinyInstaGAE
 (par Juzdzewski Matthieu, M1 ALMA
-    et LE BRAS Marc)
+
+ et LE BRAS Marc, M1 ATAL) 
 
 Rendu du projet TinyInsta -  Google AppEngine
 
