@@ -24,6 +24,8 @@ Ainsi, chaque follower va effectuer un simple read sur le datastore.
 
 # Kinds
 
+Comme nous utilisons le UserService de Google pour se log, la clé est l'email de l'utilisateur.
+(nous nous reposons sur l'unicité des comptes google)
 <img src="https://github.com/Juzdzewski/TinyInstaGAE/blob/master/USERKIND.jpg">
 
 <img src="https://github.com/Juzdzewski/TinyInstaGAE/blob/master/POSTKIND.jpg">
