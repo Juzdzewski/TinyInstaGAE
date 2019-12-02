@@ -24,4 +24,4 @@ Ainsi, chaque follower va effectuer un simple read sur le datastore.
 
 # Kinds
 
-
+<img src="">
