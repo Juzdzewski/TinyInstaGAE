@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
+
+
+  <threadsafe>true</threadsafe>
+  <sessions-enabled>false</sessions-enabled>
+  <runtime>java8</runtime>
+  
+  <static-files>
+	<include path="/favicon.ico"/>
+	<include path="/style.css" />
+	<include path="http://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>    
+  </static-files>
+
+  <system-properties>
+    <property name="java.util.logging.config.file" value="WEB-INF/logging.properties"/>
+    <property name="appengine.api.legacy.repackaging" value="true"/>
+  </system-properties>
+
+</appengine-web-app>
